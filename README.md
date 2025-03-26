@@ -1,8 +1,5 @@
 ### 👋 Hi, I’m Iresh Ekanayaka  
-🚀 DevOps | Platform Engineering | Cloud | Information Security  
+🚀 DevOps
 
-### 👀 Interests  
-- DevOps & SRE  
-- Cloud & Automation  
-- Platform Engineering  
-- Information Security  
+### 📫 Reach Me  
+- Email: Iresh_Ekanayaka@next.co.uk 
